@@ -19,5 +19,4 @@ import { PARTIES_DECLARATIONS } from './parties';
     AppComponent
   ]
 })
-
 export class AppModule {}
